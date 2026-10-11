@@ -2,6 +2,14 @@
 
 All notable changes to this repository will be documented here.
 
+## [1.0.2] - 2026-10-11
+
+### Changed
+- Repository visibility changed to Public for direct Anywhere subscriptions.
+- README updated to use the direct raw GitHub subscription URL.
+- Meta rule set now includes an embedded icon.
+- Removed the previous Private-repository/public-mirror workflow from the documentation.
+
 ## [1.0.1] - 2026-10-11
 
 ### Changed
